@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carrito de Compra</string>
+    <string name="calcular_sueldo_de_trabajadores">Calcular Sueldo de Trabajadores</string>
+    <string name="caja">Caja</string>
+    <string name="ingrese_nombre_de_producto">Ingrese Nombre de Producto</string>
+    <string name="ingrese_precio_producto">Ingrese Precio Producto</string>
+    <string name="ingrese_cantidad_de_producto">Ingrese Cantidad de Producto</string>
+    <string name="total_a_pagar">Total a Pagar :</string>
+    <string name="iva_19">IVA 19 % :</string>
+    <string name="calcular">Calcular</string>
+</resources>
